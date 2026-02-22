@@ -8,7 +8,7 @@ public class Usuario {
     //metodo para calcular o peso do usuario
 
     public double calcularIMC(){
-        return peso / (altura * altura);
+        return  (altura * altura) / peso;
     }
 
     /// Metodo para exibição no console
