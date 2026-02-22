@@ -1,8 +1,3 @@
-Ficou ótimo! Organizei o conteúdo para que o link do seu repositório apareça de forma limpa e profissional no `README.md`. Também ajustei a estrutura para facilitar a leitura de quem chegar ao seu perfil.
-
-Aqui está o arquivo final para você copiar:
-
----
 
 ```markdown
 # 🚀 FitnessApp: Java de 0 a 100 em 6 Horas
