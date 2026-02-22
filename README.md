@@ -1,8 +1,3 @@
-Com certeza! Um bom `README.md` é o cartão de visitas do seu projeto. Ele vai servir como o seu **guia de estudo** e, para quem visitar o seu GitHub, mostrará exatamente a sua trajetória de aprendizagem intensiva.
-
-Aqui está um modelo completo e profissional para colares no teu ficheiro `README.md`:
-
----
 
 ```markdown
 # 🚀 FitnessApp: Java de 0 a 100 em 6 Horas
