@@ -56,7 +56,6 @@ Licenças, autoria compartilhada e atribuições existentes no código e nos mat
 O material original a seguir preserva contexto, créditos e planejamento. Para execução e limitações atuais, considere as seções de auditoria acima.
 
 
-```markdown
 # 🚀 FitnessApp: Java de 0 a 100 em 6 Horas
 
 Este projeto é um **Web App (CLI Initial) para Controle de Treino e Dieta**, desenvolvido como um desafio de imersão total em Java. O objetivo é consolidar quatro pilares fundamentais da linguagem através de um projeto prático e funcional em tempo recorde.
@@ -100,7 +99,7 @@ Este repositório documenta uma jornada de aprendizado dividida em 4 módulos pr
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/EuGeanCarlos/FitnessApp-Java-Fullstack.git](https://github.com/EuGeanCarlos/FitnessApp-Java-Fullstack.git)
+   git clone https://github.com/EuGeanCarlos/FitnessApp-Java-Fullstack.git
 
 ```
 
@@ -117,20 +116,6 @@ Este é um projeto de estudo aberto. Sente-te à vontade para fazer um **fork**,
 
 *Desenvolvido com foco e café durante uma tarde de imersão total por Gean Carlos.* ☕🔥
 
-```
-
----
-
-## 🚀 Próximo Passo: Subindo para o GitHub
-Agora que o arquivo está pronto, rode estes comandos no seu terminal para atualizar o repositório remoto:
-
-1. `git add README.md`
-2. `git commit -m "docs: atualiza README com link do repo e plano de estudos"`
-3. `git push origin main`
-
-**Confirmado o Push?** Se sim, vamos avançar para a **Fase 2: Orientação a Objetos** e criar a classe `Alimento.java`?
-
-```
 
 ## Validação desta auditoria — 14/10/2026
 
