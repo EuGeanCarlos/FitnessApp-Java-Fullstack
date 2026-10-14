@@ -1,3 +1,60 @@
+# FitnessApp Java
+
+Exercício de orientação a objetos em Java: lê nome, peso e altura e exibe a ficha do usuário. Apesar do nome, não há frontend web ou backend HTTP.
+
+## Tecnologias
+
+- Java
+- Scanner
+
+## Funcionalidades e utilização
+
+Execute src.Principal e informe nome, peso e altura no terminal.
+
+## Como executar
+
+```bash
+git clone https://github.com/EuGeanCarlos/FitnessApp-Java-Fullstack.git
+cd FitnessApp-Java-Fullstack
+javac -encoding UTF-8 -d out src/Alimento.java src/Principal.java src/Usuario.java
+java -cp out src.Principal
+```
+
+Requer JDK 17 ou superior. Os exercícios executam no terminal.
+
+## Demonstração e publicação
+
+Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+
+GitHub Pages hospeda arquivos estáticos e não executa Java, Node.js, PHP ou Python. As dependências de servidor deste projeto devem ser executadas em ambiente apropriado.
+
+## Estrutura versionada
+
+```text
+README.md
+src/Alimento.java
+src/Principal.java
+src/Usuario.java
+```
+
+## Status
+
+Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue o que está implementado das dependências ou etapas pendentes.
+
+## Autor e créditos
+
+**Gean Carlos** — estudante de Engenharia de Computação, UEMA.
+
+[GitHub](https://github.com/EuGeanCarlos)
+
+Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+---
+
+## Documentação original e contexto
+
+O material original a seguir preserva contexto, créditos e planejamento. Para execução e limitações atuais, considere as seções de auditoria acima.
+
 
 ```markdown
 # 🚀 FitnessApp: Java de 0 a 100 em 6 Horas
