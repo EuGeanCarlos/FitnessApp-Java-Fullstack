@@ -131,3 +131,7 @@ Agora que o arquivo está pronto, rode estes comandos no seu terminal para atual
 **Confirmado o Push?** Se sim, vamos avançar para a **Fase 2: Orientação a Objetos** e criar a classe `Alimento.java`?
 
 ```
+
+## Validação desta auditoria — 14/10/2026
+
+Sem publicação nova confirmada. Compilação e execução aprovadas. Fórmula corrigida para peso/(altura²); entrada 70 kg e 1,75 m produziu IMC 22,86.
